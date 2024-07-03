@@ -1,0 +1,11 @@
+{
+  "name": "petrk-examples",
+  "version": "1.0.0",
+  "dependencies": {
+    "mathjs": "^12.4.2",
+    "react": "^18.2.0",
+    "react-native": "^0.74.3",
+    "react-native-reanimated": "^3.12.1",
+    "simplex-noise": "^4.0.1"
+  }
+}
